@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NaumanWebForm1", "NaumanWebForm1\NaumanWebForm1.csproj", "{3A584407-9040-4A77-B0CF-F66F2E64AA65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NaumanWebForm1.Tests", "NaumanWebForm1.Tests\NaumanWebForm1.Tests.csproj", "{34F6CE71-52CE-4703-A543-006EE8B30163}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A584407-9040-4A77-B0CF-F66F2E64AA65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A584407-9040-4A77-B0CF-F66F2E64AA65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A584407-9040-4A77-B0CF-F66F2E64AA65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A584407-9040-4A77-B0CF-F66F2E64AA65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34F6CE71-52CE-4703-A543-006EE8B30163}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34F6CE71-52CE-4703-A543-006EE8B30163}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34F6CE71-52CE-4703-A543-006EE8B30163}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34F6CE71-52CE-4703-A543-006EE8B30163}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {556DDE8C-BCA6-44E6-8D5A-3C6D315C98B0}
+	EndGlobalSection
+EndGlobal
